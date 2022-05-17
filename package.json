@@ -1,0 +1,12 @@
+{
+  "name": "firebase-node",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^9.8.1"
+  },
+  "devDependencies": {
+    "firebase-admin": "^10.2.0"
+  }
+}
